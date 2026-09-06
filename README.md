@@ -7,6 +7,7 @@
 - JUnit 4
 - RestAssured
 - Maven
+- Git
 
 ## Запуск
 ```bash
